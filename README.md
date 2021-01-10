@@ -5,3 +5,8 @@ It’s my first day for MLH, and as required hello, world in a new language? i'm
 
 so first i would like to start in Go Programming.
 Thank you
+
+### Output Screen:
+
+
+![GoLang Output Screen](golang.png)
